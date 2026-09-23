@@ -1,4 +1,6 @@
-## Hi there, I'm Daryanto Tanawi 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 - 🔭 I’m currently an active Informatics student at Petra Christian University<br/>
 - 🌱 I’m currently concentrating in Artificial Intelligence<br/>
