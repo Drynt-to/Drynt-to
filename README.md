@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Hi%20I'm%20Daryanto%20Tanawi&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=red&height=300&section=header&text=Hi%20I'm%20Daryanto%20Tanawi&fontSize=50&fontColor=white" />
 </p>
 
 - 🔭 I’m currently an active Informatics student at Petra Christian University<br/>
